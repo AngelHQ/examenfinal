@@ -1,3 +1,7 @@
+# Nota
+
+Este proyecto se deja archivado por no estar trabajando en él
+
 # ExamenFinal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
